@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The FOSS policy and where to find it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180514T070928Z" creationid="Takashi　Kunai" creationdate="20180514T070928Z">
+        <seg>FOSSポリシー、および、それがどこにあるか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>communicates&lt;t0/&gt; the existence of the FOSS policy to all&lt;t1/&gt; &lt;t2/&gt;Software Staff?</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180514T070359Z" creationid="Takashi　Kunai" creationdate="20180514T070245Z">
