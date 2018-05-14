@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do you have a documented procedure that</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180514T070257Z" creationid="Takashi　Kunai" creationdate="20180514T070017Z">
+        <seg>文書化された手順によって</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Is the policy internally communicated?</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180514T065846Z" creationid="Takashi　Kunai" creationdate="20180514T065550Z">
@@ -34,6 +42,14 @@
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180514T064224Z" creationid="Takashi　Kunai" creationdate="20180514T064224Z">
         <seg>優先度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>communicates&lt;t0/&gt; the existence of the FOSS policy to all&lt;t1/&gt; &lt;t2/&gt;Software Staff?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180514T070245Z" creationid="Takashi　Kunai" creationdate="20180514T070245Z">
+        <seg>FOSSポリシーの存在がすべてのソフトウェア要員にcommunicates&lt;t0/&gt; the existence of the FOSS policy to all&lt;t1/&gt; &lt;t2/&gt;Software Staff?</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
