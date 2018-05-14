@@ -48,8 +48,8 @@
       <tuv lang="EN-US">
         <seg>communicates&lt;t0/&gt; the existence of the FOSS policy to all&lt;t1/&gt; &lt;t2/&gt;Software Staff?</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180514T070245Z" creationid="Takashi　Kunai" creationdate="20180514T070245Z">
-        <seg>FOSSポリシーの存在がすべてのソフトウェア要員にcommunicates&lt;t0/&gt; the existence of the FOSS policy to all&lt;t1/&gt; &lt;t2/&gt;Software Staff?</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180514T070359Z" creationid="Takashi　Kunai" creationdate="20180514T070245Z">
+        <seg>FOSSポリシーの存在がすべてのソフトウェア要員に伝わるようになっていますか？&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
