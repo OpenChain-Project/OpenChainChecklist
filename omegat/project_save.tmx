@@ -24,8 +24,8 @@
       <tuv lang="EN-US">
         <seg>A quotation worth bearing in mind with regards all aspects of compliance engineering comes from C. Northcote Parkinson:</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180514T082132Z" creationid="Takashi　Kunai" creationdate="20180514T081836Z">
-        <seg>コンプライアンス実行のすべての側面について心に留めておくに値するパーキンソン氏の名言があります。</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180515T055915Z" creationid="Takashi　Kunai" creationdate="20180514T081836Z">
+        <seg>コンプライアンス実行のすべての側面に関して心に留めておくに値するパーキンソン氏の名言があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -224,8 +224,8 @@
       <tuv lang="EN-US">
         <seg>“&lt;t0/&gt;Work expands so as to fill the time available for its completion.&lt;t1/&gt;”</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180514T082358Z" creationid="Takashi　Kunai" creationdate="20180514T081947Z">
-        <seg>「&lt;t0/&gt;仕事というのは、その仕事の完了までに使える時間を使いきるまでいつまでも続くものです。&lt;t1/&gt;」</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180515T055953Z" creationid="Takashi　Kunai" creationdate="20180514T081947Z">
+        <seg>「&lt;t0/&gt;仕事というのは、その仕事の完了までに使える時間を使いきるまで続きます。&lt;t1/&gt;」</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
