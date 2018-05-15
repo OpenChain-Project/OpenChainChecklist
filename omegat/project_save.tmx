@@ -64,8 +64,8 @@
       <tuv lang="EN-US">
         <seg>Checklist For Rebuilding Product X</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180515T072635Z" creationid="Takashi　Kunai" creationdate="20180515T072635Z">
-        <seg>製品Xの再作成に向けたチェックリスト</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180515T084452Z" creationid="Takashi　Kunai" creationdate="20180515T072635Z">
+        <seg>製品Xの再ビルドに向けたチェックリスト</seg>
       </tuv>
     </tu>
     <tu>
@@ -208,8 +208,8 @@
       <tuv lang="EN-US">
         <seg>See ‘Checklist For Rebuilding Product X’ for an example of the latter.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180515T061011Z" creationid="Takashi　Kunai" creationdate="20180515T025328Z">
-        <seg>「製品Xの再作成に向けたチェックリスト」は、後者の例です。</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180515T084512Z" creationid="Takashi　Kunai" creationdate="20180515T025328Z">
+        <seg>「製品Xの再ビルドに向けたチェックリスト」は、後者の例です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -226,6 +226,14 @@
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180515T065422Z" creationid="Takashi　Kunai" creationdate="20180515T053316Z">
         <seg>ステップ #1: 継続的なコンプライアンス業務</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Step #2</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180515T084040Z" creationid="Takashi　Kunai" creationdate="20180515T084040Z">
+        <seg>ステップ #2</seg>
       </tuv>
     </tu>
     <tu>
