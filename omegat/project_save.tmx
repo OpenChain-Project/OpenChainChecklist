@@ -142,6 +142,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Have any uncertainties been escalated to the Open Source support team?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180515T085521Z" creationid="Takashi　Kunai" creationdate="20180515T085521Z">
+        <seg>不確かな点は、オープンソースサポートチームに対して持ちあげられたか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Have the rebuild results been verified?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180515T085346Z" creationid="Takashi　Kunai" creationdate="20180515T085346Z">
+        <seg>再ビルドの結果は検証されたか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Have training on the organization’s FOSS policy available to everyone​.</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180515T072326Z" creationid="Takashi　Kunai" creationdate="20180515T072326Z">
@@ -266,6 +282,22 @@
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180515T084824Z" creationid="Takashi　Kunai" creationdate="20180515T084824Z">
         <seg>ステップ #3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Step #4</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180515T085305Z" creationid="Takashi　Kunai" creationdate="20180515T085305Z">
+        <seg>ステップ #4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Step #5</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180515T085353Z" creationid="Takashi　Kunai" creationdate="20180515T085353Z">
+        <seg>ステップ #5</seg>
       </tuv>
     </tu>
     <tu>
