@@ -110,6 +110,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>See ‘Checklist For Rebuilding Product X’ for an example of the latter.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180515T025328Z" creationid="Takashi　Kunai" creationdate="20180515T025328Z">
+        <seg>後者の例として、「製品Xの再作成に向けたチェックリスト」を参照してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The FOSS policy and where to find it.</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180514T070928Z" creationid="Takashi　Kunai" creationdate="20180514T070928Z">
