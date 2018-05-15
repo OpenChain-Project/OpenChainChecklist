@@ -142,6 +142,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This checklist, like the material above, is free of charge and freely available so you can explore what is best to meet your requirements.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180515T052628Z" creationid="Takashi　Kunai" creationdate="20180515T052628Z">
+        <seg>このチェックリストは、上記の市況This checklist, like the material above, is free of charge and freely available so you can explore what is best to meet your requirements.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is a more detailed list running through the whole process and may be required for a larger organization.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180515T052520Z" creationid="Takashi　Kunai" creationdate="20180515T052520Z">
+        <seg>同チェックリストは、コンプライアンスプロセス全般で行われるより詳細な点検項目を提供しており、やや大きな組織で必要とされるものでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This is from the &lt;t0/&gt;OpenChain Curriculum slides&lt;t1/&gt;.&lt;t2/&gt; It is based - in turn - on the Linux Foundation Open Compliance Program &lt;t3/&gt;Self-Assessment Compliance Checklist&lt;t4/&gt;.&lt;t5/&gt; It may be suitable for a small organization or for framing the general issue for a large organization.</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180515T005604Z" creationid="Takashi　Kunai" creationdate="20180515T004717Z">
