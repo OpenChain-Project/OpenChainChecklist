@@ -142,6 +142,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Review and approve any outbound contributions to FOSS projects.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180515T070258Z" creationid="Takashi　Kunai" creationdate="20180515T070258Z">
+        <seg>FOSSプロジェクトへの貢献として外部提供されるものをレビューし、承認すること。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>See the ‘General Compliance Checklist’ for a short and simple checklist.</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180515T060140Z" creationid="Takashi　Kunai" creationdate="20180515T003207Z">
