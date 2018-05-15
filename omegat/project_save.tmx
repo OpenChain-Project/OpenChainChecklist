@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This is from the &lt;t0/&gt;OpenChain Curriculum slides&lt;t1/&gt;.&lt;t2/&gt; It is based - in turn - on the Linux Foundation Open Compliance Program &lt;t3/&gt;Self-Assessment Compliance Checklist&lt;t4/&gt;.&lt;t5/&gt; It may be suitable for a small organization or for framing the general issue for a large organization.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180515T004717Z" creationid="Takashi　Kunai" creationdate="20180515T004717Z">
+        <seg>これは、 &lt;t0/&gt;「OpenChainカリキュラム」&lt;t1/&gt;のスライドショーに掲載されているものですが、&lt;t2/&gt; Linux FoundationのOpen Compliance Program &lt;t3/&gt;「自己診断コンプライアンスチェックリスト」&lt;t4/&gt;に基づいています。&lt;t5/&gt; このチェックリストは、小規模な組織や、大規模な組織におけるIt may be suitable for a small organization or for framing the general issue for a large organization.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>What constitutes a happy medium really depends on your organizational size.</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180515T001440Z" creationid="Takashi　Kunai" creationdate="20180514T085217Z">
