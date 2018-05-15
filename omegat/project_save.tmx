@@ -150,6 +150,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Is a list of rebuild steps provided?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180515T084816Z" creationid="Takashi　Kunai" creationdate="20180515T084816Z">
+        <seg>再ビルドのステップの一覧は用意されているか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Is the policy internally communicated?</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180514T065846Z" creationid="Takashi　Kunai" creationdate="20180514T065550Z">
@@ -242,6 +250,14 @@
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180515T071808Z" creationid="Takashi　Kunai" creationdate="20180515T070740Z">
         <seg>ステップ #2: コンプライアンスを支える要件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Step #3</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180515T084824Z" creationid="Takashi　Kunai" creationdate="20180515T084824Z">
+        <seg>ステップ #3</seg>
       </tuv>
     </tu>
     <tu>
