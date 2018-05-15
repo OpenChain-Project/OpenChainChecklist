@@ -198,6 +198,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Step #1</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180515T073150Z" creationid="Takashi　Kunai" creationdate="20180515T073150Z">
+        <seg>ステップ #1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Step #1: Ongoing Compliance Tasks</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180515T065422Z" creationid="Takashi　Kunai" creationdate="20180515T053316Z">
@@ -218,6 +226,14 @@
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180514T070928Z" creationid="Takashi　Kunai" creationdate="20180514T070928Z">
         <seg>FOSSポリシー、および、それがどこにあるか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This checklist can be part of the review process for ensuring “complete and corresponding” source code is available when distributing products containing GPL code.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180515T073140Z" creationid="Takashi　Kunai" creationdate="20180515T073140Z">
+        <seg>このチェックリストは、GPLコードを含んだ製品の頒布の際に、「完全な対応ソースコード」を確実に提供するためのレビュープロセスの一部となりえるものです。</seg>
       </tuv>
     </tu>
     <tu>
