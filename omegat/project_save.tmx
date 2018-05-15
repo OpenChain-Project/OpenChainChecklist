@@ -134,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Has a rebuild been successfully completed on a clean machine?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180515T085257Z" creationid="Takashi　Kunai" creationdate="20180515T085257Z">
+        <seg>再ビルドは、余分なソフトウェアなどのないクリーンなコンピュータシステム上で、エラーなしに完了したか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Have training on the organization’s FOSS policy available to everyone​.</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180515T072326Z" creationid="Takashi　Kunai" creationdate="20180515T072326Z">
