@@ -8,8 +8,8 @@
       <tuv lang="EN-US">
         <seg>A happy medium is the goal.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180515T001405Z" creationid="Takashi　Kunai" creationdate="20180514T084925Z">
-        <seg>程よい中間点こそがゴールです。</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180515T010630Z" creationid="Takashi　Kunai" creationdate="20180514T084925Z">
+        <seg>程よい中庸こそがゴールです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -104,8 +104,8 @@
       <tuv lang="EN-US">
         <seg>What constitutes a happy medium really depends on your organizational size.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180515T001440Z" creationid="Takashi　Kunai" creationdate="20180514T085217Z">
-        <seg>程よい中間点として何を採るかは、組織の規模に依存します。</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180515T010645Z" creationid="Takashi　Kunai" creationdate="20180514T085217Z">
+        <seg>程よい中庸として何を採るかは、組織の規模に依存します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -122,6 +122,14 @@
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180514T083401Z" creationid="Takashi　Kunai" creationdate="20180514T083401Z">
         <seg>正しく使えばチェックリストは、GPLコンプライアンス作業を、素早い、首尾一貫した、また効率的なやり方で管理する有用な手法となりえます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You might elect to have more specific checklists to address specific compliance goals.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180515T010822Z" creationid="Takashi　Kunai" creationdate="20180515T010601Z">
+        <seg>場合によっては、特定のコンプライアンス目標を意図して、より特定的なチェックリストを作成することを選択することもあるでしょう。</seg>
       </tuv>
     </tu>
     <tu>
