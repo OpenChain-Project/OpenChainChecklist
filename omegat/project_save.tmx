@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>(This should include package versions and any similar information critical to ensuring compliance.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180515T084032Z" creationid="Takashi　Kunai" creationdate="20180515T084032Z">
+        <seg>(これには、コンプライアンスを確実に履行するために必須のパッケージの版数や類似の情報が含まれるべきです。)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A great place to start is the Open Compliance Program &lt;t0/&gt;Self-Assessment Compliance Checklist&lt;t1/&gt;.</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180515T045708Z" creationid="Takashi　Kunai" creationdate="20180515T030326Z">
@@ -130,6 +138,14 @@
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180515T072326Z" creationid="Takashi　Kunai" creationdate="20180515T072326Z">
         <seg>組織のFOSSポリシーについて、すべての要員教育訓練を用意すること。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Is a complete &lt;t0/&gt;description&lt;t1/&gt; of the build environment provided?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180515T083747Z" creationid="Takashi　Kunai" creationdate="20180515T083747Z">
+        <seg>ビルド環境の完全な説明が用意されているか？&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
