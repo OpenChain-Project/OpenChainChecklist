@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Adapt existing business processes to support the FOSS compliance program.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180515T071926Z" creationid="Takashi　Kunai" creationdate="20180515T071732Z">
+        <seg>FOSSコンプライアンスプログラムを支えるために既存のビジネスプロセスを適合させること。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Another way would be to cover the “core” of the issue and leave details to trained personnel or sub-checklists as needed.</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180515T060856Z" creationid="Takashi　Kunai" creationdate="20180515T024759Z">
@@ -184,8 +192,8 @@
       <tuv lang="EN-US">
         <seg>Step #2: Support Requirements</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180515T070740Z" creationid="Takashi　Kunai" creationdate="20180515T070740Z">
-        <seg>ステップ #2: コンプライアンス支援のための要件</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180515T071808Z" creationid="Takashi　Kunai" creationdate="20180515T070740Z">
+        <seg>ステップ #2: コンプライアンスを支える要件</seg>
       </tuv>
     </tu>
     <tu>
