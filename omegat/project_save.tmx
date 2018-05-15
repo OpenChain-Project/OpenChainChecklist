@@ -136,8 +136,8 @@
       <tuv lang="EN-US">
         <seg>See ‘Checklist For Rebuilding Product X’ for an example of the latter.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180515T025328Z" creationid="Takashi　Kunai" creationdate="20180515T025328Z">
-        <seg>後者の例として、「製品Xの再作成に向けたチェックリスト」を参照してください。</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180515T061011Z" creationid="Takashi　Kunai" creationdate="20180515T025328Z">
+        <seg>「製品Xの再作成に向けたチェックリスト」は、後者の例です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -160,8 +160,8 @@
       <tuv lang="EN-US">
         <seg>This checklist, like the material above, is free of charge and freely available so you can explore what is best to meet your requirements.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180515T053053Z" creationid="Takashi　Kunai" creationdate="20180515T052628Z">
-        <seg>このチェックリストは、上記の資料と同様、無償で自由に利用できますので、何が組織の要件に合うのかを見極めることができます。</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180515T061325Z" creationid="Takashi　Kunai" creationdate="20180515T052628Z">
+        <seg>このチェックリストは、上記の資料と同様、無償で自由に利用できますので、何が組織の要件に一番合致するのかを探るのに使えます。</seg>
       </tuv>
     </tu>
     <tu>
