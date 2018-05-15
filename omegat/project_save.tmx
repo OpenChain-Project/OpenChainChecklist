@@ -198,6 +198,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Verify the information necessary to satisfy FOSS obligations​.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180515T070115Z" creationid="Takashi　Kunai" creationdate="20180515T070115Z">
+        <seg>FOSSの義務を満たすために必要な情報を検証すること。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>What constitutes a happy medium really depends on your organizational size.</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180515T010645Z" creationid="Takashi　Kunai" creationdate="20180514T085217Z">
