@@ -96,8 +96,8 @@
       <tuv lang="EN-US">
         <seg>This is from the &lt;t0/&gt;OpenChain Curriculum slides&lt;t1/&gt;.&lt;t2/&gt; It is based - in turn - on the Linux Foundation Open Compliance Program &lt;t3/&gt;Self-Assessment Compliance Checklist&lt;t4/&gt;.&lt;t5/&gt; It may be suitable for a small organization or for framing the general issue for a large organization.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180515T005201Z" creationid="Takashi　Kunai" creationdate="20180515T004717Z">
-        <seg>これは、 &lt;t0/&gt;「OpenChainカリキュラム」&lt;t1/&gt;のスライドショーに掲載されているものですが、&lt;t2/&gt; Linux FoundationのOpen Compliance Program &lt;t3/&gt;「自己診断コンプライアンスチェックリスト」&lt;t4/&gt;に基づいています。&lt;t5/&gt; このチェックリストは、小規模な組織で利用するのに、あるいは、大規模な組織における全般的な課題の抽出に適しています。</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180515T005604Z" creationid="Takashi　Kunai" creationdate="20180515T004717Z">
+        <seg>これは、 &lt;t0/&gt;「OpenChainカリキュラム」&lt;t1/&gt;のスライドショーに掲載されているものですが、&lt;t2/&gt; Linux FoundationのOpen Compliance Program &lt;t3/&gt;「自己診断コンプライアンスチェックリスト」&lt;t4/&gt;の一部を使っています。&lt;t5/&gt; このチェックリストは、小規模な組織で利用するのに、あるいは、大規模な組織における全般的な課題の抽出に適しています。</seg>
       </tuv>
     </tu>
     <tu>
