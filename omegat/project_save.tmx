@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Discover all FOSS early in the procurement/development cycle​.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180515T065723Z" creationid="Takashi　Kunai" creationdate="20180515T065614Z">
+        <seg>すべてのFOSSを購買・開発サイクルの早期段階で見つけること。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do you have FOSS training materials (e.g., slide&lt;t0/&gt; &lt;t1/&gt;decks or online course) covering the following topics?</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180514T070812Z" creationid="Takashi　Kunai" creationdate="20180514T070812Z">
@@ -122,6 +130,14 @@
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180514T064224Z" creationid="Takashi　Kunai" creationdate="20180514T064224Z">
         <seg>優先度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Review and Approve all FOSS packages used.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180515T065732Z" creationid="Takashi　Kunai" creationdate="20180515T065715Z">
+        <seg>使用するすべてのFOSSパッケージをレビューし、承認すること。</seg>
       </tuv>
     </tu>
     <tu>
