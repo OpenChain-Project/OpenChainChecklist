@@ -86,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>General Compliance Checklist</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180515T053126Z" creationid="Takashi　Kunai" creationdate="20180515T053126Z">
+        <seg>総括的コンプライアンス チェックリスト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Is the policy internally communicated?</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180514T065846Z" creationid="Takashi　Kunai" creationdate="20180514T065550Z">
@@ -144,8 +152,8 @@
       <tuv lang="EN-US">
         <seg>This checklist, like the material above, is free of charge and freely available so you can explore what is best to meet your requirements.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180515T052628Z" creationid="Takashi　Kunai" creationdate="20180515T052628Z">
-        <seg>このチェックリストは、上記の市況This checklist, like the material above, is free of charge and freely available so you can explore what is best to meet your requirements.</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180515T053053Z" creationid="Takashi　Kunai" creationdate="20180515T052628Z">
+        <seg>このチェックリストは、上記の資料と同様、無償で自由に利用できますので、何が組織の要件に合うのかを見極めることができます。</seg>
       </tuv>
     </tu>
     <tu>
