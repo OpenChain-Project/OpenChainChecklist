@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Checklist For Rebuilding Product X</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180515T072635Z" creationid="Takashi　Kunai" creationdate="20180515T072635Z">
+        <seg>製品Xの再作成に向けたチェックリスト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Checklists</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180514T080805Z" creationid="Takashi　Kunai" creationdate="20180514T080805Z">
@@ -234,6 +242,14 @@
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180515T060354Z" creationid="Takashi　Kunai" creationdate="20180515T004717Z">
         <seg>これは、 &lt;t0/&gt;「OpenChainカリキュラム」&lt;t1/&gt;&lt;t2/&gt; のスライドショーに掲載されているものですが、Linux FoundationのOpen Compliance Program &lt;t3/&gt;「自己診断コンプライアンスチェックリスト」&lt;t4/&gt;&lt;t5/&gt; の一部を使っています。このチェックリストは、小規模な組織で利用するのに、あるいは、大規模な組織における全般的な課題の抽出に適しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Track progress of all compliance activities​.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180515T072545Z" creationid="Takashi　Kunai" creationdate="20180515T072545Z">
+        <seg>すべてのコンプライアンス活動の進捗を追跡すること。</seg>
       </tuv>
     </tu>
     <tu>
