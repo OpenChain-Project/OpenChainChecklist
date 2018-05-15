@@ -32,8 +32,8 @@
       <tuv lang="EN-US">
         <seg>Another way would be to cover the “core” of the issue and leave details to trained personnel or sub-checklists as needed.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180515T024951Z" creationid="Takashi　Kunai" creationdate="20180515T024759Z">
-        <seg>別の方法として、課題の「中核部分」のみをカバーして、詳細は訓練を受けた要員や、あるいは、サブチェックリストに委ねるやり方があります。</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180515T060856Z" creationid="Takashi　Kunai" creationdate="20180515T024759Z">
+        <seg>別の方法として、課題の「中核部分」のみをカバーして、詳細は訓練を受けた要員や、あるいは、サブチェックリストに委ねるやり方もあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -80,8 +80,8 @@
       <tuv lang="EN-US">
         <seg>For example, the concept of addressing the “complete and corresponding” source code for distribution is arguably the first and most useful area to have a specific checklist.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180515T023445Z" creationid="Takashi　Kunai" creationdate="20180515T011804Z">
-        <seg>例えば、頒布物の「完全な対応ソースコード」に対処する仕組み造りは、間違いなく特定用途チェックリストを適用する最初の、また、最適の領域でしょう。</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180515T060759Z" creationid="Takashi　Kunai" creationdate="20180515T011804Z">
+        <seg>例えば、頒布物の「完全な対応ソースコード」に対処する仕組み造りは、間違いなく特定用途チェックリストを適用する最初の、また、最適な領域でしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -104,8 +104,8 @@
       <tuv lang="EN-US">
         <seg>One way of approaching this would be to create an exhaustive list of all the steps possible and necessary.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180515T024545Z" creationid="Takashi　Kunai" creationdate="20180515T024545Z">
-        <seg>この課題への取り組みとして、可能な、また、必要なすべての手段を網羅したリストを作るのも一つの方法でしょう。</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180515T060831Z" creationid="Takashi　Kunai" creationdate="20180515T024545Z">
+        <seg>この課題への取り組みとして、可能な、また、必要なすべての手段を網羅したリストを作るのは一つの方法です。</seg>
       </tuv>
     </tu>
     <tu>
