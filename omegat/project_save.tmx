@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>A great place to start is the Open Compliance Program &lt;t0/&gt;Self-Assessment Compliance Checklist&lt;t1/&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180515T030326Z" creationid="Takashi　Kunai" creationdate="20180515T030326Z">
+        <seg>Open Compliance Program の&lt;t0/&gt;「自己診断コンプライアンスチェックリスト」&lt;t1/&gt;は、スタート地点として優れています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A happy medium is the goal.</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180515T010630Z" creationid="Takashi　Kunai" creationdate="20180514T084925Z">
