@@ -96,8 +96,8 @@
       <tuv lang="EN-US">
         <seg>Do you have a documented policy that governs FOSS&lt;t0/&gt; &lt;t1/&gt;license compliance of the Supplied Software&lt;t2/&gt; &lt;t3/&gt;distribution (e.g., via training, internal wiki, or other&lt;t4/&gt; &lt;t5/&gt;practical communication method)?</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180514T065609Z" creationid="Takashi　Kunai" creationdate="20180514T065357Z">
-        <seg>供給ソフトウェアの頒布に関するFOSSライセンスコンプライアンスを統制する文書化されたポリシーを用意していますか？（例えば、トレーニング、社内Wiki、あるいは、その他の伝達手法を用いて）&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180516T082058Z" creationid="Takashi　Kunai" creationdate="20180514T065357Z">
+        <seg>供給ソフトウェアの頒布についてFOSSライセンスコンプライアンスを統制する文書化されたポリシーを用意していますか？（例えば、トレーニング、社内Wiki、あるいは、その他の伝達手法を用いて）&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -184,8 +184,8 @@
       <tuv lang="EN-US">
         <seg>Is the policy internally communicated?</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180514T065846Z" creationid="Takashi　Kunai" creationdate="20180514T065550Z">
-        <seg>そのポリシーは社内で広まっていますか？</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180516T082125Z" creationid="Takashi　Kunai" creationdate="20180514T065550Z">
+        <seg>そのポリシーは社内で周知されていますか？</seg>
       </tuv>
     </tu>
     <tu>
@@ -218,6 +218,14 @@
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180514T064224Z" creationid="Takashi　Kunai" creationdate="20180514T064224Z">
         <seg>優先度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Responsable</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180516T081918Z" creationid="Takashi　Kunai" creationdate="20180516T081918Z">
+        <seg>責任者</seg>
       </tuv>
     </tu>
     <tu>
