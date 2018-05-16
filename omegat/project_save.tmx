@@ -88,8 +88,8 @@
       <tuv lang="EN-US">
         <seg>Do you have FOSS training materials (e.g., slide&lt;t0/&gt; &lt;t1/&gt;decks or online course) covering the following topics?</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180514T070812Z" creationid="Takashi　Kunai" creationdate="20180514T070812Z">
-        <seg>以下のようなトピックをカバーしたFOSSトレーニング資料（例えば、スライドやオンラインコースなど）を用意していますか？&lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180516T082337Z" creationid="Takashi　Kunai" creationdate="20180514T070812Z">
+        <seg>以下のようなトピックをカバーしたFOSSトレーニング資料（例えば、スライドショーやオンラインコースなど）を用意していますか？&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -408,8 +408,8 @@
       <tuv lang="EN-US">
         <seg>communicates&lt;t0/&gt; the existence of the FOSS policy to all&lt;t1/&gt; &lt;t2/&gt;Software Staff?</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180514T070359Z" creationid="Takashi　Kunai" creationdate="20180514T070245Z">
-        <seg>FOSSポリシーの存在がすべてのソフトウェア要員に伝わるようになっていますか？&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180516T082247Z" creationid="Takashi　Kunai" creationdate="20180514T070245Z">
+        <seg>FOSSポリシーの存在がすべてのソフトウェア要員に周知されていますか？&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
