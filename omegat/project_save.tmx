@@ -286,6 +286,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Software Staff roles and &lt;t0/&gt; &lt;t1/&gt;responsibilities pertaining to&lt;t2/&gt; &lt;t3/&gt;FOSS compliance specifically and the FOSS policy &lt;t4/&gt;ingeneral&lt;t5/&gt;,</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180516T083821Z" creationid="Takashi　Kunai" creationdate="20180516T083821Z">
+        <seg>ソフトウェア要員の役割と責任&lt;t0/&gt;&lt;t1/&gt;関するpertaining to&lt;t2/&gt; &lt;t3/&gt;FOSS compliance specifically and the FOSS policy &lt;t4/&gt;ingeneral&lt;t5/&gt;,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Step #1</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180515T073150Z" creationid="Takashi　Kunai" creationdate="20180515T073150Z">
