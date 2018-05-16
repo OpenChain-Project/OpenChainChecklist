@@ -126,6 +126,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>FOSS licensing concepts (including the concepts of&lt;t0/&gt; &lt;t1/&gt;permissive and copyleft licenses),</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180516T082815Z" creationid="Takashi　Kunai" creationdate="20180516T082815Z">
+        <seg>FOSSライセンスの基本概念 (パーミッシブライセンスやコピーレフトライセンスの概念を含む&lt;t0/&gt;&lt;t1/&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FOSS project licensing models</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180516T082908Z" creationid="Takashi　Kunai" creationdate="20180516T082908Z">
+        <seg>FOSSプロジェクトのいろいろなライセンスモデル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example, the concept of addressing the “complete and corresponding” source code for distribution is arguably the first and most useful area to have a specific checklist.</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180516T003501Z" creationid="Takashi　Kunai" creationdate="20180515T011804Z">
