@@ -160,16 +160,16 @@
       <tuv lang="EN-US">
         <seg>Have training on the organization’s FOSS policy available to everyone​.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180515T072326Z" creationid="Takashi　Kunai" creationdate="20180515T072326Z">
-        <seg>組織のFOSSポリシーについて、すべての要員教育訓練を用意すること。</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180516T003621Z" creationid="Takashi　Kunai" creationdate="20180515T072326Z">
+        <seg>組織のFOSSポリシーについて、すべての要員向けに教育訓練を用意すること。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Is a complete &lt;t0/&gt;description&lt;t1/&gt; of the build environment provided?</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180515T083747Z" creationid="Takashi　Kunai" creationdate="20180515T083747Z">
-        <seg>ビルド環境の完全な説明が用意されているか？&lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180516T003719Z" creationid="Takashi　Kunai" creationdate="20180515T083747Z">
+        <seg>ビルド環境の完全な内容記述が用意されているか？&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -312,8 +312,8 @@
       <tuv lang="EN-US">
         <seg>This checklist can be part of the review process for ensuring “complete and corresponding” source code is available when distributing products containing GPL code.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180515T073140Z" creationid="Takashi　Kunai" creationdate="20180515T073140Z">
-        <seg>このチェックリストは、GPLコードを含んだ製品の頒布の際に、「完全な対応ソースコード」を確実に提供するためのレビュープロセスの一部となりえるものです。</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180516T003647Z" creationid="Takashi　Kunai" creationdate="20180515T073140Z">
+        <seg>このチェックリストは、GPLコードを含んだ製品の頒布の際に、「全対応ソースコード」を確実に提供するためのレビュープロセスの一部となりえるものです。</seg>
       </tuv>
     </tu>
     <tu>
