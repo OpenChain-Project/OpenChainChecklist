@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Basics of Intellectual Property law pertaining to FOSS&lt;t0/&gt; &lt;t1/&gt;and FOSS licenses,</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180516T082559Z" creationid="Takashi　Kunai" creationdate="20180516T082559Z">
+        <seg>FOSS、および、FOSSライセンスに関する知財法の基礎&lt;t0/&gt;&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Checklist</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180514T064137Z" creationid="Takashi　Kunai" creationdate="20180514T064137Z">
