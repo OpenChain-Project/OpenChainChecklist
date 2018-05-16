@@ -190,6 +190,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Next&lt;t0/&gt; &lt;t1/&gt;steps</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180516T081649Z" creationid="Takashi　Kunai" creationdate="20180516T081649Z">
+        <seg>次の&lt;t0/&gt; &lt;t1/&gt;ステップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>One way of approaching this would be to create an exhaustive list of all the steps possible and necessary.</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180515T060831Z" creationid="Takashi　Kunai" creationdate="20180515T024545Z">
