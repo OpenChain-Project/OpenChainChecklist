@@ -32,8 +32,8 @@
       <tuv lang="EN-US">
         <seg>A quotation worth bearing in mind with regards all aspects of compliance engineering comes from C. Northcote Parkinson:</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180515T055915Z" creationid="Takashi　Kunai" creationdate="20180514T081836Z">
-        <seg>コンプライアンス実行のすべての側面に関して心に留めておくに値するパーキンソン氏の名言があります。</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180516T003407Z" creationid="Takashi　Kunai" creationdate="20180514T081836Z">
+        <seg>コンプライアンス実行のすべての局面において心に留めておくべきパーキンソン氏の名言があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -120,8 +120,8 @@
       <tuv lang="EN-US">
         <seg>For example, the concept of addressing the “complete and corresponding” source code for distribution is arguably the first and most useful area to have a specific checklist.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180515T060759Z" creationid="Takashi　Kunai" creationdate="20180515T011804Z">
-        <seg>例えば、頒布物の「完全な対応ソースコード」に対処する仕組み造りは、間違いなく特定用途チェックリストを適用する最初の、また、最適な領域でしょう。</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180516T003501Z" creationid="Takashi　Kunai" creationdate="20180515T011804Z">
+        <seg>例えば、頒布物の「全対応ソースコード」に対処する仕組み造りは、間違いなく特定用途チェックリストを適用する最初の、また、最適な領域でしょう。</seg>
       </tuv>
     </tu>
     <tu>
