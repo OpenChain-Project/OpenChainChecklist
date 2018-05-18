@@ -238,6 +238,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Have you assigned a person, group or function responsible&lt;t0/&gt; &lt;t1/&gt;for managing internal FOSS compliance?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180518T075625Z" creationid="Takashi　Kunai" creationdate="20180518T075625Z">
+        <seg>社内のFOSSコンプライアンスを管理することに責任を負う要員、グループ、あるいは、職制をアサインしましたか？&lt;t0/&gt;&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Have you assigned individual(s) responsible for receiving&lt;t0/&gt; &lt;t1/&gt;external FOSS compliance inquiries (“FOSS Liaison”)?</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180518T072405Z" creationid="Takashi　Kunai" creationdate="20180518T072405Z">
@@ -528,8 +536,8 @@
       <tuv lang="EN-US">
         <seg>responsibility&lt;t0/&gt; for receiving FOSS compliance inquiries?</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180518T075016Z" creationid="Takashi　Kunai" creationdate="20180518T075016Z">
-        <seg>をアサインする文書化された手順を用意していますか？&lt;t0/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180518T075033Z" creationid="Takashi　Kunai" creationdate="20180518T075016Z">
+        <seg>アサインする文書化された手順を用意していますか？&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
