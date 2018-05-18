@@ -246,6 +246,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Is the FOSS Liaison function publicly identified (e.g. via an&lt;t0/&gt; &lt;t1/&gt;email address and/or the Linux Foundation’s Open</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180518T073718Z" creationid="Takashi　Kunai" creationdate="20180518T073718Z">
+        <seg>FOSS窓口ｈｗの連絡方法が外部から識別できますか？(e.g. via an&lt;t0/&gt; &lt;t1/&gt;email address and/or the Linux Foundation’s Open</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Is the policy internally communicated?</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180516T082125Z" creationid="Takashi　Kunai" creationdate="20180514T065550Z">
