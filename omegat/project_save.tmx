@@ -438,6 +438,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The FOSS&lt;t2/&gt; &lt;t3/&gt;Compliance role and FOSS Liaison can be the same</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180518T075758Z" creationid="Takashi　Kunai" creationdate="20180518T075758Z">
+        <seg>FOSSコンプライアンスの役割と&lt;t2/&gt;&lt;t3/&gt;FOSS窓口は、同一の要員であっても構いません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This checklist can be part of the review process for ensuring “complete and corresponding” source code is available when distributing products containing GPL code.</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180516T003647Z" creationid="Takashi　Kunai" creationdate="20180515T073140Z">
@@ -529,6 +537,14 @@
         <seg>governing&lt;t0/&gt; the Supplied Software.</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180518T071407Z" creationid="Takashi　Kunai" creationdate="20180518T071407Z">
+        <seg>&lt;t0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>individual&lt;t0/&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180518T075807Z" creationid="Takashi　Kunai" creationdate="20180518T075807Z">
         <seg>&lt;t0/&gt;</seg>
       </tuv>
     </tu>
