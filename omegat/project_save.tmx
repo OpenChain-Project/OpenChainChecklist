@@ -126,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do you have a documented procedure that assigns</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180518T075027Z" creationid="Takashi　Kunai" creationdate="20180518T074929Z">
+        <seg>FOSSコンプライアンスの問い合わせを受け付ける責任者を</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do you have a documented procedure to review and&lt;t0/&gt; &lt;t1/&gt;document the obligations, restrictions&lt;t2/&gt; &lt;t3/&gt;and rights granted by each Identified License</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180518T071901Z" creationid="Takashi　Kunai" creationdate="20180518T071310Z">
@@ -514,6 +522,14 @@
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180518T071407Z" creationid="Takashi　Kunai" creationdate="20180518T071407Z">
         <seg>&lt;t0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>responsibility&lt;t0/&gt; for receiving FOSS compliance inquiries?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180518T075016Z" creationid="Takashi　Kunai" creationdate="20180518T075016Z">
+        <seg>をアサインする文書化された手順を用意していますか？&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
