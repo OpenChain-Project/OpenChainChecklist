@@ -118,6 +118,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do you track the completion of the training for all&lt;t0/&gt; &lt;t1/&gt;Software Staff?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180518T065143Z" creationid="Takashi　Kunai" creationdate="20180518T065143Z">
+        <seg>全ソフトウェア要員を対象に、トレーニングの完了を追跡しているか？&lt;t0/&gt;&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ensure adequate compliance staffing and designate clear lines of responsibility.</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180516T005154Z" creationid="Takashi　Kunai" creationdate="20180515T071434Z">
@@ -246,6 +254,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Process for identifying, recording and/or tracking of&lt;t0/&gt; &lt;t1/&gt;FOSS components contained in Supplied Software?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180518T064940Z" creationid="Takashi　Kunai" creationdate="20180518T064905Z">
+        <seg>供給ソフトウェア中に含まれるFOSSコンポーネントを、特定したり、記録したり、また、追跡したりするプロセス?&lt;t0/&gt;&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Responsable</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180516T081918Z" creationid="Takashi　Kunai" creationdate="20180516T081918Z">
@@ -288,8 +304,8 @@
       <tuv lang="EN-US">
         <seg>Software Staff roles and &lt;t0/&gt; &lt;t1/&gt;responsibilities pertaining to&lt;t2/&gt; &lt;t3/&gt;FOSS compliance specifically and the FOSS policy &lt;t4/&gt;ingeneral&lt;t5/&gt;,</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180518T064602Z" creationid="Takashi　Kunai" creationdate="20180516T083821Z">
-        <seg>ソフトウェア要員の役割と責任、&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;FOSSコンプライアンスに関しては具体的に、また、とFOSSポリシーについてはの概要的にlly &lt;t4/&gt;&lt;t5/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180518T064921Z" creationid="Takashi　Kunai" creationdate="20180516T083821Z">
+        <seg>ソフトウェア要員の役割と責任、&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;FOSSコンプライアンスに関しては具体的に、また、とFOSSポリシーについてはの概要的に &lt;t4/&gt;&lt;t5/&gt;</seg>
       </tuv>
     </tu>
     <tu>
