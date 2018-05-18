@@ -120,24 +120,24 @@
       <tuv lang="EN-US">
         <seg>Do you have a documented procedure to review and&lt;t0/&gt; &lt;t1/&gt;document the obligations, restrictions&lt;t2/&gt; &lt;t3/&gt;and rights granted by each Identified License</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180518T071419Z" creationid="Takashi　Kunai" creationdate="20180518T071310Z">
-        <seg>供給ソフトウェアで特定されたライセンスごとに、その義務、制約、および、権利をレビューし、かつ、記録する文書化された手順を持っているか？&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180518T071901Z" creationid="Takashi　Kunai" creationdate="20180518T071310Z">
+        <seg>供給ソフトウェアで特定されたライセンスごとに、その義務、制約、および、権利をレビューし、かつ、記録する文書化された手順を持っていますか？&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Do you have a process for reviewing the Identified&lt;t0/&gt; &lt;t1/&gt;Licenses to determine the obligations, restrictions and&lt;t2/&gt; &lt;t3/&gt;rights granted by each license?</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180518T070316Z" creationid="Takashi　Kunai" creationdate="20180518T070316Z">
-        <seg>特定されたライセンスをレビューし、各ライセンスの義務、制約、権利を見極めるプロセスが用意されているか？&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180518T071842Z" creationid="Takashi　Kunai" creationdate="20180518T070316Z">
+        <seg>特定されたライセンスをレビューし、各ライセンスの義務、制約、権利を見極めるプロセスが用意されていますか？&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Do you track the completion of the training for all&lt;t0/&gt; &lt;t1/&gt;Software Staff?</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180518T065143Z" creationid="Takashi　Kunai" creationdate="20180518T065143Z">
-        <seg>全ソフトウェア要員を対象に、トレーニングの完了を追跡しているか？&lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180518T071806Z" creationid="Takashi　Kunai" creationdate="20180518T065143Z">
+        <seg>全ソフトウェア要員を対象に、トレーニングの完了を追跡していますか？&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -192,8 +192,8 @@
       <tuv lang="EN-US">
         <seg>Have 85% or more of the Software Staff completed a&lt;t0/&gt; &lt;t1/&gt;FOSS training within the last 24 months?</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180518T065523Z" creationid="Takashi　Kunai" creationdate="20180518T065523Z">
-        <seg>過去24ヶ月間にソフトウェア要員の85%以上がFOSSトレーニングを修了したか？&lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180518T071829Z" creationid="Takashi　Kunai" creationdate="20180518T065523Z">
+        <seg>過去24ヶ月間にソフトウェア要員の85%以上がFOSSトレーニングを修了しましたか？&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -280,8 +280,8 @@
       <tuv lang="EN-US">
         <seg>Process for identifying, recording and/or tracking of&lt;t0/&gt; &lt;t1/&gt;FOSS components contained in Supplied Software?</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180518T064940Z" creationid="Takashi　Kunai" creationdate="20180518T064905Z">
-        <seg>供給ソフトウェア中に含まれるFOSSコンポーネントを、特定したり、記録したり、また、追跡したりするプロセス?&lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180518T071753Z" creationid="Takashi　Kunai" creationdate="20180518T064905Z">
+        <seg>供給ソフトウェア中に含まれるFOSSコンポーネントを、特定したり、記録したり、また、追跡したりするプロセスがありますか?&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
