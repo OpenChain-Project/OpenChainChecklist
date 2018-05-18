@@ -120,8 +120,8 @@
       <tuv lang="EN-US">
         <seg>Do you have a documented procedure to review and&lt;t0/&gt; &lt;t1/&gt;document the obligations, restrictions&lt;t2/&gt; &lt;t3/&gt;and rights granted by each Identified License</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180518T071310Z" creationid="Takashi　Kunai" creationdate="20180518T071310Z">
-        <seg>供給ソフトウェア特定されたライセンスごとに、その義務、制約、および、権利をレビューし、かつ、記録する文書化された手順を持っているか？&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180518T071419Z" creationid="Takashi　Kunai" creationdate="20180518T071310Z">
+        <seg>供給ソフトウェアで特定されたライセンスごとに、その義務、制約、および、権利をレビューし、かつ、記録する文書化された手順を持っているか？&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -482,6 +482,14 @@
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180516T082247Z" creationid="Takashi　Kunai" creationdate="20180514T070245Z">
         <seg>FOSSポリシーの存在がすべてのソフトウェア要員に周知されていますか？&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>governing&lt;t0/&gt; the Supplied Software.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180518T071407Z" creationid="Takashi　Kunai" creationdate="20180518T071407Z">
+        <seg>&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
