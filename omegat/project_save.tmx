@@ -254,6 +254,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Have you assigned responsibilities to develop and maintain&lt;t0/&gt; &lt;t1/&gt;FOSS compliance policy and processes?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180518T081059Z" creationid="Takashi　Kunai" creationdate="20180518T081059Z">
+        <seg>FOSSコンプライアンスのポリシー、および、そのプロセスを作成し、また、維持することに責任を負う担当者をアサインしていますか？&lt;t0/&gt;&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Is a complete &lt;t0/&gt;description&lt;t1/&gt; of the build environment provided?</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180516T003719Z" creationid="Takashi　Kunai" creationdate="20180515T083747Z">
