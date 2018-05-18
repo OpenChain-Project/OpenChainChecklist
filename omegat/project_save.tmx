@@ -222,6 +222,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Have you assigned individual(s) responsible for receiving&lt;t0/&gt; &lt;t1/&gt;external FOSS compliance inquiries (“FOSS Liaison”)?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180518T072405Z" creationid="Takashi　Kunai" creationdate="20180518T072405Z">
+        <seg>外部から来るFOSSコンプライアンスの問い合わせを受け付けることに責任のある要員をアサインしていますか？&lt;t0/&gt;&lt;t1/&gt; (「FOSS窓口」)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Is a complete &lt;t0/&gt;description&lt;t1/&gt; of the build environment provided?</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180516T003719Z" creationid="Takashi　Kunai" creationdate="20180515T083747Z">
