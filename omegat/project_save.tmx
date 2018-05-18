@@ -118,6 +118,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do you have a documented procedure for handling review&lt;t0/&gt; &lt;t1/&gt;and remediation of non-compliant cases?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180518T082010Z" creationid="Takashi　Kunai" creationdate="20180518T082010Z">
+        <seg>コンプライアンス違反が起きたとき、それをレビューし、また、矯正する文書化された手順を用意していますか？&lt;t0/&gt;&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do you have a documented procedure that</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180514T070257Z" creationid="Takashi　Kunai" creationdate="20180514T070017Z">
