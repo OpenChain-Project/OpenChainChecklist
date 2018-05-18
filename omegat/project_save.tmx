@@ -118,6 +118,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do you have a process for reviewing the Identified&lt;t0/&gt; &lt;t1/&gt;Licenses to determine the obligations, restrictions and&lt;t2/&gt; &lt;t3/&gt;rights granted by each license?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180518T070316Z" creationid="Takashi　Kunai" creationdate="20180518T070316Z">
+        <seg>特定されたライセンスをレビューし、各ライセンスの義務、制約、権利を見極めるプロセスが用意されているか？&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do you track the completion of the training for all&lt;t0/&gt; &lt;t1/&gt;Software Staff?</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180518T065143Z" creationid="Takashi　Kunai" creationdate="20180518T065143Z">
