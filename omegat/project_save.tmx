@@ -118,6 +118,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do you have a documented procedure to review and&lt;t0/&gt; &lt;t1/&gt;document the obligations, restrictions&lt;t2/&gt; &lt;t3/&gt;and rights granted by each Identified License</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180518T071310Z" creationid="Takashi　Kunai" creationdate="20180518T071310Z">
+        <seg>供給ソフトウェア特定されたライセンスごとに、その義務、制約、および、権利をレビューし、かつ、記録する文書化された手順を持っているか？&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do you have a process for reviewing the Identified&lt;t0/&gt; &lt;t1/&gt;Licenses to determine the obligations, restrictions and&lt;t2/&gt; &lt;t3/&gt;rights granted by each license?</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180518T070316Z" creationid="Takashi　Kunai" creationdate="20180518T070316Z">
