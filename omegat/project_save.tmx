@@ -126,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do you have a documented procedure for identifying,&lt;t0/&gt; &lt;t1/&gt;tracking and archiving information about the collection of&lt;t2/&gt; &lt;t3/&gt;FOSS components from which a Supplied Software release is&lt;t4/&gt; &lt;t5/&gt;comprised?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180519T052410Z" creationid="Takashi　Kunai" creationdate="20180519T052410Z">
+        <seg>&lt;t0/&gt;&lt;t1/&gt;出荷した供給ソフトウェアを構成する&lt;t2/&gt;&lt;t3/&gt;一連のFOSSコンポーネントに関する情報を確認、追跡、保存する文書化された手順を用意していますか？&lt;t4/&gt;&lt;t5/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do you have a documented procedure that</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180514T070257Z" creationid="Takashi　Kunai" creationdate="20180514T070017Z">
