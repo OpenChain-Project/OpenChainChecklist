@@ -102,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do you have FOSS component records for each Supplied&lt;t0/&gt; &lt;t1/&gt;Software release which demonstrates the documented&lt;t2/&gt; &lt;t3/&gt;procedure was properly followed?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180519T053148Z" creationid="Takashi　Kunai" creationdate="20180519T053148Z">
+        <seg>出荷したそれぞれの供給ソフトウェアに対応したFOSSコンポーネント記録を用意し、&lt;t0/&gt;&lt;t1/&gt;そこには、文書化された手順が正確に実施されたことを示すようにしていますか？&lt;t2/&gt;&lt;t3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do you have FOSS training materials (e.g., slide&lt;t0/&gt; &lt;t1/&gt;decks or online course) covering the following topics?</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180516T082337Z" creationid="Takashi　Kunai" creationdate="20180514T070812Z">
