@@ -614,6 +614,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>integrated with other FOSS such that it may trigger copyleft&lt;t0/&gt; &lt;t1/&gt;obligations;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180519T054617Z" creationid="Takashi　Kunai" creationdate="20180519T054617Z">
+        <seg>コピーレフトの義務が発生するような他のFOSSと統合&lt;t0/&gt;&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>responsibility&lt;t0/&gt; for receiving FOSS compliance inquiries?</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180518T075033Z" creationid="Takashi　Kunai" creationdate="20180518T075016Z">
