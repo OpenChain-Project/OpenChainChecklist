@@ -582,6 +582,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>contains modified FOSS</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180519T054704Z" creationid="Takashi　Kunai" creationdate="20180519T054704Z">
+        <seg>FOSSの修正を含んでいる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>distributed in binary form;</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180519T054223Z" creationid="Takashi　Kunai" creationdate="20180519T054223Z">
