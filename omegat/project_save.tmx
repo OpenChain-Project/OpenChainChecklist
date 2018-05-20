@@ -368,8 +368,8 @@
       <tuv lang="EN-US">
         <seg>Process for identifying, recording and/or tracking of&lt;t0/&gt; &lt;t1/&gt;FOSS components contained in Supplied Software?</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180518T071753Z" creationid="Takashi　Kunai" creationdate="20180518T064905Z">
-        <seg>供給ソフトウェア中に含まれるFOSSコンポーネントを、特定したり、記録したり、また、追跡したりするプロセスがありますか?&lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180520T070650Z" creationid="Takashi　Kunai" creationdate="20180518T064905Z">
+        <seg>供給ソフトウェア中に含まれるFOSSコンポーネントを、特定したり、記録したり、また、追跡したりするためのプロセスがありますか?&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
