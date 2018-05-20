@@ -312,8 +312,8 @@
       <tuv lang="EN-US">
         <seg>Is legal expertise pertaining to FOSS compliance accessible&lt;t0/&gt; &lt;t1/&gt;to the FOSS Compliance Role (e.g., internal or external)?</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180518T080832Z" creationid="Takashi　Kunai" creationdate="20180518T080832Z">
-        <seg>FOSSコンプライアンスの担当者は、FOSSコンプライアンスに関する（社内、または、社外の）法務専門家がアクセス可能でしょうか？&lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180520T072052Z" creationid="Takashi　Kunai" creationdate="20180518T080832Z">
+        <seg>FOSSコンプライアンスの履行担当者は、FOSSコンプライアンスに関する（社内、または、社外の）法務専門家にアクセス可能ですか？&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
