@@ -88,8 +88,8 @@
       <tuv lang="EN-US">
         <seg>Compliance Directory)?</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180518T074042Z" creationid="Takashi　Kunai" creationdate="20180518T073957Z">
-        <seg>(例えば、電子メールアドレス、または、Linux FoundationのOpen Compliance Directory等によって)?</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180520T071445Z" creationid="Takashi　Kunai" creationdate="20180518T073957Z">
+        <seg>(例えば、電子メールアドレス、または、Linux Foundationのオープンココンプライアンスディレクトリ	y等によって)?</seg>
       </tuv>
     </tu>
     <tu>
@@ -640,8 +640,8 @@
       <tuv lang="EN-US">
         <seg>responsibility&lt;t0/&gt; for receiving FOSS compliance inquiries?</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180518T075033Z" creationid="Takashi　Kunai" creationdate="20180518T075016Z">
-        <seg>アサインする文書化された手順を用意していますか？&lt;t0/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180520T071545Z" creationid="Takashi　Kunai" creationdate="20180518T075016Z">
+        <seg>アサインする文書化された手続きを用意していますか？&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
