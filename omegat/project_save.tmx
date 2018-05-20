@@ -584,8 +584,8 @@
       <tuv lang="EN-US">
         <seg>contains FOSS or other software under an incompatible&lt;t0/&gt; &lt;t1/&gt;license interacting with other components within the&lt;t2/&gt; &lt;t3/&gt;Supplied Software;</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180519T055617Z" creationid="Takashi　Kunai" creationdate="20180519T055617Z">
-        <seg>供給ソフトウェアの他のコンポーネントとcontains FOSS or other software under an incompatible&lt;t0/&gt; &lt;t1/&gt;license interacting with other components within the&lt;t2/&gt; &lt;t3/&gt;Supplied Software;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180520T073530Z" creationid="Takashi　Kunai" creationdate="20180519T055617Z">
+        <seg>供給ソフトウェア内の他のコンポーネントとやりとりする、両立性のないライセンス条件のFOSSやその他のソフトウェアを含んでいる&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
