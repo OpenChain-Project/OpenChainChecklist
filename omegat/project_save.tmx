@@ -288,8 +288,8 @@
       <tuv lang="EN-US">
         <seg>Have you implemented a procedure that handles at least the&lt;t0/&gt; &lt;t1/&gt;following common FOSS license use cases for the FOSS&lt;t2/&gt; &lt;t3/&gt;components of each supplied &lt;t4/&gt;Supplied&lt;t5/&gt; Software release?</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180519T054154Z" creationid="Takashi　Kunai" creationdate="20180519T054154Z">
-        <seg>出荷された各供給ソフトウェアを構成するFOSSコンポーネントに対応して、少なくとも以下のような共通的なFOSSライセンス使用形態を取り扱う手順を作成していますか？&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180520T073101Z" creationid="Takashi　Kunai" creationdate="20180519T054154Z">
+        <seg>供給ソフトウェアの各リリースを構成するFOSSコンポーネントに対応して、少なくとも以下のような共通的なFOSSライセンスユースケースを取り扱う手続きを作成していますか？&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -592,24 +592,24 @@
       <tuv lang="EN-US">
         <seg>contains modified FOSS</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180519T054704Z" creationid="Takashi　Kunai" creationdate="20180519T054704Z">
-        <seg>FOSSの修正を含んでいる</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180520T073212Z" creationid="Takashi　Kunai" creationdate="20180519T054704Z">
+        <seg>改変されたFOSSを含んでいる</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>distributed in binary form;</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180519T054223Z" creationid="Takashi　Kunai" creationdate="20180519T054223Z">
-        <seg>バイナリー形式での頒布</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180520T073124Z" creationid="Takashi　Kunai" creationdate="20180519T054223Z">
+        <seg>バイナリー形態での頒布</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>distributed in source form;</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180519T054251Z" creationid="Takashi　Kunai" creationdate="20180519T054251Z">
-        <seg>ソースコード形式での頒布</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180520T073138Z" creationid="Takashi　Kunai" creationdate="20180519T054251Z">
+        <seg>ソースコード形態での頒布</seg>
       </tuv>
     </tu>
     <tu>
