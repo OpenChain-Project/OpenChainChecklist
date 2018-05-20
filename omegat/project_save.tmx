@@ -118,6 +118,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do you allow employees to contribute to FOSS&lt;t0/&gt; &lt;t1/&gt;projects on behalf of your organization?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180520T080424Z" creationid="Takashi　Kunai" creationdate="20180520T080424Z">
+        <seg>従業員が組織・企業を代表してFOSSプロジェクトに貢献することを許容していますか？&lt;t0/&gt;&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do you archive copies of the Compliance Artifacts of the&lt;t0/&gt; &lt;t1/&gt;Supplied Software?</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180520T074641Z" creationid="Takashi　Kunai" creationdate="20180520T074641Z">
@@ -138,6 +146,14 @@
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180516T082337Z" creationid="Takashi　Kunai" creationdate="20180514T070812Z">
         <seg>以下のようなトピックをカバーしたFOSSトレーニング資料（例えば、スライドショーやオンラインコースなど）を用意していますか？&lt;t0/&gt;&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do you have a documented FOSS contribution&lt;t0/&gt; &lt;t1/&gt;policy?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180520T080516Z" creationid="Takashi　Kunai" creationdate="20180520T080516Z">
+        <seg>FOSSコントリビューションポリｓ－を文書化していますか？&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -362,6 +378,14 @@
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180516T082125Z" creationid="Takashi　Kunai" creationdate="20180514T065550Z">
         <seg>そのポリシーは社内で周知されていますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Is your Software Staff aware of the existence of the&lt;t0/&gt; &lt;t1/&gt;FOSS Contribution Policy (e.g. via training, internal&lt;t2/&gt; &lt;t3/&gt;wiki, or other practical communication method)?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180520T080626Z" creationid="Takashi　Kunai" creationdate="20180520T080626Z">
+        <seg>ソフトウェア要員は、Is your Software Staff aware of the existence of the&lt;t0/&gt; &lt;t1/&gt;FOSS Contribution Policy (e.g. via training, internal&lt;t2/&gt; &lt;t3/&gt;wiki, or other practical communication method)?</seg>
       </tuv>
     </tu>
     <tu>
