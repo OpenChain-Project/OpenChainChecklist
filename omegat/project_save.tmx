@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CONFIDENTIAL &lt;t0/&gt;5&lt;t1/&gt;/&lt;t2/&gt;5</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180520T081415Z" creationid="Takashi　Kunai" creationdate="20180520T081415Z">
+        <seg>&lt;t1/&gt;&lt;t2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Can you easily retrieve the archived copies of the&lt;t0/&gt; &lt;t1/&gt;Compliance Artifacts of the Supplied Software?</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180520T074833Z" creationid="Takashi　Kunai" creationdate="20180520T074833Z">
@@ -426,6 +434,14 @@
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180520T070650Z" creationid="Takashi　Kunai" creationdate="20180518T064905Z">
         <seg>供給ソフトウェア中に含まれるFOSSコンポーネントを、特定したり、記録したり、また、追跡したりするためのプロセスがありますか?&lt;t0/&gt;&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Provided the FOSS contribution policy permits&lt;t0/&gt; &lt;t1/&gt;contributions, do you have a documented procedure&lt;t2/&gt; &lt;t3/&gt;that describes the FOSS contribution process?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180520T081335Z" creationid="Takashi　Kunai" creationdate="20180520T081335Z">
+        <seg>FOSSコントリビューションポリシ－がFOSSへの貢献を認めているとき、&lt;t0/&gt;&lt;t1/&gt;FOSSコントリビューションプロセスを記述する文書化された手続きを用意していますか？&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
