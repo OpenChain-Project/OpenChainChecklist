@@ -102,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do you archive copies of the Compliance Artifacts of the&lt;t0/&gt; &lt;t1/&gt;Supplied Software?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180520T074641Z" creationid="Takashi　Kunai" creationdate="20180520T074641Z">
+        <seg>供給ソフトウェアに関するコンプライアンス関連資料の写しを保管していますか？&lt;t0/&gt;&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do you have FOSS component records for each Supplied&lt;t0/&gt; &lt;t1/&gt;Software release which demonstrates the documented&lt;t2/&gt; &lt;t3/&gt;procedure was properly followed?</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180520T072832Z" creationid="Takashi　Kunai" creationdate="20180519T053148Z">
