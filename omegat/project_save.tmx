@@ -264,8 +264,8 @@
       <tuv lang="EN-US">
         <seg>Have you assigned a person, group or function responsible&lt;t0/&gt; &lt;t1/&gt;for managing internal FOSS compliance?</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180518T075625Z" creationid="Takashi　Kunai" creationdate="20180518T075625Z">
-        <seg>社内のFOSSコンプライアンスを管理することに責任を負う要員、グループ、あるいは、職制をアサインしましたか？&lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180520T071719Z" creationid="Takashi　Kunai" creationdate="20180518T075625Z">
+        <seg>組織内部においてFOSSコンプライアンスを管理することに責任を負う要員、グループ、あるいは、職制をアサインしましたか？&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -488,8 +488,8 @@
       <tuv lang="EN-US">
         <seg>The FOSS&lt;t2/&gt; &lt;t3/&gt;Compliance role and FOSS Liaison can be the same</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180518T075758Z" creationid="Takashi　Kunai" creationdate="20180518T075758Z">
-        <seg>FOSSコンプライアンスの役割と&lt;t2/&gt;&lt;t3/&gt;FOSS窓口は、同一の要員であっても構いません。</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180520T071800Z" creationid="Takashi　Kunai" creationdate="20180518T075758Z">
+        <seg>FOSSコンプライアンスを履行する役割と&lt;t2/&gt;&lt;t3/&gt;FOSS窓口は、同一の要員であっても構いません。</seg>
       </tuv>
     </tu>
     <tu>
