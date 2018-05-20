@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Can you easily retrieve the archived copies of the&lt;t0/&gt; &lt;t1/&gt;Compliance Artifacts of the Supplied Software?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180520T074833Z" creationid="Takashi　Kunai" creationdate="20180520T074833Z">
+        <seg>供給ソフトウェアに関するコンプライアンス関連資料の保管された写しを容易に取りだすことができますか？&lt;t0/&gt;&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Checklist</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180514T064137Z" creationid="Takashi　Kunai" creationdate="20180514T064137Z">
