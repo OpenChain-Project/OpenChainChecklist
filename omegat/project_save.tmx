@@ -158,6 +158,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do you have a documented procedure that describes a&lt;t0/&gt; &lt;t1/&gt;process that ensures the Compliance Artifacts are&lt;t2/&gt; &lt;t3/&gt;distributed with Supplied Software as required by the&lt;t4/&gt; &lt;t5/&gt;Identified Licenses?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180520T074444Z" creationid="Takashi　Kunai" creationdate="20180520T074444Z">
+        <seg>コンプライアンス関連資料が、確認ライセンスの要求するとおりに供給ソフトウェアと併せて頒布されることを確かにする文書された手続きを用意していますか？&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do you have a documented procedure to review and&lt;t0/&gt; &lt;t1/&gt;document the obligations, restrictions&lt;t2/&gt; &lt;t3/&gt;and rights granted by each Identified License</seg>
       </tuv>
       <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180518T071901Z" creationid="Takashi　Kunai" creationdate="20180518T071310Z">
