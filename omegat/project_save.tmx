@@ -128,16 +128,16 @@
       <tuv lang="EN-US">
         <seg>Do you have a documented procedure for handling review&lt;t0/&gt; &lt;t1/&gt;and remediation of non-compliant cases?</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180518T082010Z" creationid="Takashi　Kunai" creationdate="20180518T082010Z">
-        <seg>コンプライアンス違反が起きたとき、それをレビューし、また、矯正する文書化された手順を用意していますか？&lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180520T072421Z" creationid="Takashi　Kunai" creationdate="20180518T082010Z">
+        <seg>コンプライアンスに反する状況の調査や、救済策を実施する文書化された手続きを用意していますか？&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Do you have a documented procedure for identifying,&lt;t0/&gt; &lt;t1/&gt;tracking and archiving information about the collection of&lt;t2/&gt; &lt;t3/&gt;FOSS components from which a Supplied Software release is&lt;t4/&gt; &lt;t5/&gt;comprised?</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180519T052410Z" creationid="Takashi　Kunai" creationdate="20180519T052410Z">
-        <seg>&lt;t0/&gt;&lt;t1/&gt;出荷した供給ソフトウェアを構成する&lt;t2/&gt;&lt;t3/&gt;一連のFOSSコンポーネントに関する情報を確認、追跡、保存する文書化された手順を用意していますか？&lt;t4/&gt;&lt;t5/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180520T072622Z" creationid="Takashi　Kunai" creationdate="20180519T052410Z">
+        <seg>&lt;t0/&gt;&lt;t1/&gt;供給ソフトウェアリリースを構成する&lt;t2/&gt;&lt;t3/&gt;一連のFOSSコンポーネントに関する情報を特定、追跡、保存する文書化された手続きを用意していますか？&lt;t4/&gt;&lt;t5/&gt;</seg>
       </tuv>
     </tu>
     <tu>
