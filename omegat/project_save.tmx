@@ -384,8 +384,8 @@
       <tuv lang="EN-US">
         <seg>Is your Software Staff aware of the existence of the&lt;t0/&gt; &lt;t1/&gt;FOSS Contribution Policy (e.g. via training, internal&lt;t2/&gt; &lt;t3/&gt;wiki, or other practical communication method)?</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180520T080626Z" creationid="Takashi　Kunai" creationdate="20180520T080626Z">
-        <seg>ソフトウェア要員は、Is your Software Staff aware of the existence of the&lt;t0/&gt; &lt;t1/&gt;FOSS Contribution Policy (e.g. via training, internal&lt;t2/&gt; &lt;t3/&gt;wiki, or other practical communication method)?</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180520T081031Z" creationid="Takashi　Kunai" creationdate="20180520T080626Z">
+        <seg>ソフトウェア要員は、FOSSコントリビューションポリシ－の存在を、（トレーニング、社内Wiki、その他の伝達手段を通じて）認知していますか？&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
