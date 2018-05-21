@@ -144,8 +144,8 @@
       <tuv lang="EN-US">
         <seg>Do you have FOSS component records for each Supplied&lt;t0/&gt; &lt;t1/&gt;Software release which demonstrates the documented&lt;t2/&gt; &lt;t3/&gt;procedure was properly followed?</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180520T083843Z" creationid="Takashi　Kunai" creationdate="20180519T053148Z">
-        <seg>供給ソフトウェアの各リリースに対応したFOSSコンポーネントの記録を用意し、&lt;t0/&gt;&lt;t1/&gt;そこで文書化された手続きが適正に実施されたことを示すようにしていますか？&lt;t2/&gt;&lt;t3/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180521T051404Z" creationid="Takashi　Kunai" creationdate="20180519T053148Z">
+        <seg>供給ソフトウェアの各リリースに対応したFOSSコンポーネントの記録を用意し、&lt;t0/&gt;&lt;t1/&gt;それが文書化された手続きを適正に実施したことを示すようにしていますか？&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
