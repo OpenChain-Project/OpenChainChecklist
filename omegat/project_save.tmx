@@ -264,8 +264,8 @@
       <tuv lang="EN-US">
         <seg>For example, the concept of addressing the “complete and corresponding” source code for distribution is arguably the first and most useful area to have a specific checklist.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180516T003501Z" creationid="Takashi　Kunai" creationdate="20180515T011804Z">
-        <seg>例えば、頒布物の「全対応ソースコード」に対処する仕組み造りは、間違いなく特定用途チェックリストを適用する最初の、また、最適な領域でしょう。</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180523T022843Z" creationid="Takashi　Kunai" creationdate="20180515T011804Z">
+        <seg>例えば、頒布物の「全対応ソースコード」を準備する作業は、おそらく特定用途チェックリストを適用するときに最初に思いつく、また、最も有用な領域でしょう。</seg>
       </tuv>
     </tu>
     <tu>
