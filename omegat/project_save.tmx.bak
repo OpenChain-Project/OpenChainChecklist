@@ -296,8 +296,8 @@
       <tuv lang="EN-US">
         <seg>Have any uncertainties been escalated to the Open Source support team?</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180523T023917Z" creationid="Takashi　Kunai" creationdate="20180515T085521Z">
-        <seg>不確かな点は、オープンソースサポートチームに対してエスカレートされたか？</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180515T085521Z" creationid="Takashi　Kunai" creationdate="20180515T085521Z">
+        <seg>不確かな点は、オープンソースサポートチームに対して持ちあげられたか？</seg>
       </tuv>
     </tu>
     <tu>
@@ -312,8 +312,8 @@
       <tuv lang="EN-US">
         <seg>Have training on the organization’s FOSS policy available to everyone​.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180523T023823Z" creationid="Takashi　Kunai" creationdate="20180515T072326Z">
-        <seg>すべての要員にFOSSポリシーのトレーニングを行うこと。</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180516T005420Z" creationid="Takashi　Kunai" creationdate="20180515T072326Z">
+        <seg>すべての要員にFOSSポリシーの教育訓練を用意すること。</seg>
       </tuv>
     </tu>
     <tu>
@@ -584,8 +584,8 @@
       <tuv lang="EN-US">
         <seg>This is a more detailed list running through the whole process and may be required for a larger organization.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180523T023706Z" creationid="Takashi　Kunai" creationdate="20180515T052520Z">
-        <seg>同チェックリストは、コンプライアンスプロセス全体にわたるより詳細な点検項目を網羅しており、大きな組織で必要とされるものでしょう。</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180515T052520Z" creationid="Takashi　Kunai" creationdate="20180515T052520Z">
+        <seg>同チェックリストは、コンプライアンスプロセス全般で行われるより詳細な点検項目を提供しており、やや大きな組織で必要とされるものでしょう。</seg>
       </tuv>
     </tu>
     <tu>
