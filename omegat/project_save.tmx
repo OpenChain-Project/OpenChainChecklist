@@ -168,8 +168,8 @@
       <tuv lang="EN-US">
         <seg>Do you have a documented policy that governs FOSS&lt;t0/&gt; &lt;t1/&gt;license compliance of the Supplied Software&lt;t2/&gt; &lt;t3/&gt;distribution (e.g., via training, internal wiki, or other&lt;t4/&gt; &lt;t5/&gt;practical communication method)?</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180516T082058Z" creationid="Takashi　Kunai" creationdate="20180514T065357Z">
-        <seg>供給ソフトウェアの頒布についてFOSSライセンスコンプライアンスを統制する文書化されたポリシーを用意していますか？（例えば、トレーニング、社内Wiki、あるいは、その他の伝達手法を用いて）&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180611T024131Z" creationid="Takashi　Kunai" creationdate="20180514T065357Z">
+        <seg>供給ソフトウェアの頒布に関してFOSSライセンスコンプライアンス遵守を規定する文書化されたポリシーを用意していますか？（例えば、トレーニング、社内Wiki、あるいは、その他の伝達手法を用いて）&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -488,8 +488,8 @@
       <tuv lang="EN-US">
         <seg>Software Staff roles and &lt;t0/&gt; &lt;t1/&gt;responsibilities pertaining to&lt;t2/&gt; &lt;t3/&gt;FOSS compliance specifically and the FOSS policy &lt;t4/&gt;ingeneral&lt;t5/&gt;,</seg>
       </tuv>
-      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180521T051025Z" creationid="Takashi　Kunai" creationdate="20180516T083821Z">
-        <seg>ソフトウェア要員の役割と責任、&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;FOSSコンプライアンスに関しては具体的に、また、FOSSポリシーについては概要的に &lt;t4/&gt;&lt;t5/&gt;</seg>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180611T024330Z" creationid="Takashi　Kunai" creationdate="20180516T083821Z">
+        <seg>ソフトウェア要員の役割と責任&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;（FOSSコンプライアンスに関しては具体的に、また、FOSSポリシーについては概要的に） &lt;t4/&gt;&lt;t5/&gt;</seg>
       </tuv>
     </tu>
     <tu>
